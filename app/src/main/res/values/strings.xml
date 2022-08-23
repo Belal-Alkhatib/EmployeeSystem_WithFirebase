@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Database Final project</string>
+
+    <string-array name="Employee">
+        <item>Greater Than</item>
+        <item>Greater Than Or Equal</item>
+        <item>Less Than</item>
+        <item>Less Than Or Equal</item>
+        <item>Equal</item>
+        <item>Not Equal</item>
+
+
+    </string-array>
+</resources>
